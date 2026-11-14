@@ -1,0 +1,7 @@
+mage-ai
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+jupyter
